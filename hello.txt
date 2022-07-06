@@ -1,10 +1,11 @@
 Hello git! Hello world! 2222222222
 Hello git! Hello world! 3333333333
 Hello git! Hello world!
+Hello git! Hello world! 这是 hot-fix 分支首次添加的内容
 Hello git! Hello world!
 Hello git! Hello world!
 Hello git! Hello world!
 Hello git! Hello world!
 Hello git! Hello world!
 Hello git! Hello world!
-Hello git! Hello world!
+
